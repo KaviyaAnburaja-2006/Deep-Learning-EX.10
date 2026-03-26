@@ -1,0 +1,12 @@
+tensorflow
+keras
+numpy
+pillow
+matplotlib
+fastapi
+uvicorn
+python-multipart
+gdown
+scikit-learn
+nltk
+pyttsx3
